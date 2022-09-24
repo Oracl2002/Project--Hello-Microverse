@@ -1,0 +1,13 @@
+h1{
+    font-family: sans-serif;
+    color: crimson;
+    text-align: center;
+    font-size: 100px;
+}
+header{
+    color: black;
+    height: 30px;
+}
+body{
+    background-color: white;
+}
